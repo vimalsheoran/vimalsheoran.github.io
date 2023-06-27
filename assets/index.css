@@ -20,27 +20,27 @@
 	justify-content: center;
 	align-content: center;
 	flex-direction: column;
-	text-align: center;
+	text-align: justify;
 	margin-left: 20px;
 }
 
 .author__site-title {
 	margin-top: 13px;
     font-family: 'Permanent Marker', cursive;
-    font-size: 35px;
+    font-size: 30px;
     text-decoration: none;
     color: #000;
 }
 
 .author__my-name {
     font-family: 'PT Sans Caption', sans-serif;
-    font-size: 20px;
+    font-size: 12px;
 }
 
 .author__elsewhere {
 	display: flex;
-	justify-content: center;
-	align-content: center;
+	justify-content: left;
+	align-content: left;
 	margin-top: 3px;
 	flex-wrap: wrap;
 }
